@@ -1,0 +1,461 @@
+speaker1, Am I doing that right so far ?,Open.Initiate.Demand
+speaker2, Mhm.,React.Respond.Support
+speaker1, All the way down to that ?,React.Rejoinder.Support
+speaker2,Mhm. I think.,React.Respond.Support
+speaker1, I don't think I am.,React.Rejoinder.Confront
+speaker1,Do you ?,React.Rejoinder.Support
+speaker2,And you'd have to have that plus or minus.,React.Rejoinder.Confront
+speaker2,What.,React.Rejoinder.Confront
+speaker1,I don't know what I did to get that.,React.Rejoinder.Support
+speaker1, Where did I get that square root.,Sustain.Continue.Prolong
+speaker1,um ex squared.,Sustain.Continue.Append
+speaker2, Because you brought this over here.,React.Rejoinder.Support
+speaker2, You brought three over here.,Sustain.Continue.Prolong
+speaker2, divided by three,Sustain.Continue.Append
+speaker2,and then you have ex squared,Sustain.Continue.Prolong
+speaker2,so if you want to find ex you have the square root of ex squared.,Sustain.Continue.Prolong
+speaker1, I guess all I can't figure out is what the square root of negative two two thirds is.,React.Rejoinder.Confront
+speaker1, Would that be.,React.Rejoinder.Support
+speaker2, square root two.,React.Rejoinder.Support
+speaker1, square root two thirds ?,React.Rejoinder.Support
+speaker2, over three,React.Rejoinder.Support
+speaker2,The whole thing would be over.,Sustain.Continue.Prolong
+speaker2,Well. No it couldn't be.,Sustain.Continue.Prolong
+speaker2,Square root of two thirds,Sustain.Continue.Append
+speaker2,yeah.,React.Respond.Support
+speaker2,But then you got the other one Nathan.,Sustain.Continue.Prolong
+speaker1,Oh gosh hm.,Open.Attend.
+speaker1, Leah. She snoozing on the floor ?,Open.Initiate.Demand
+speaker2,Mhm. Not anymore,React.Respond.Support
+speaker2, you woke her up.,Sustain.Continue.Prolong
+speaker2, She's doing the karate kid,Open.Initiate.Give
+speaker2, Nathan.,Sustain.Continue.Monitor
+speaker1, She's like leave me alone.,React.Respond.Support
+speaker1, Do I deserve this.,React.Rejoinder.Confront
+speaker1, I mean how would you like it when you're laying in bed.,Sustain.Continue.Prolong
+speaker1, somebody just grabbed your arm started swinging it around.,Sustain.Continue.Prolong
+speaker2, I'd probably just slap em.,React.Respond.Support
+speaker1, Ex squared equals one over the square root of that the square root of that ex equals the square root of one.,Open.Initiate.Give
+speaker2,She's not even looking at me. She's just looking,Open.Initiate.Give
+speaker2,like...,Sustain.Continue.Append
+speaker1, I know.,React.Respond.Support
+speaker1, That's what I'm talking about.,Sustain.Continue.Prolong
+speaker1,So. would that one be square root of one half ?,Open.Initiate.Demand
+speaker2,Mhm.,React.Respond.Support
+speaker1, It would ?,React.Rejoinder.Support
+speaker2, Mhm. Yep.,React.Respond.Support
+speaker2,But do y'all have to do that,Sustain.Continue.Prolong
+speaker2,um you have to like,Sustain.Continue.Prolong
+speaker2,have it where you do that,Sustain.Continue.Prolong
+speaker2,there's no um. fraction under...,Sustain.Continue.Prolong
+speaker2,ʔuh under the in the denominator ?,Sustain.Continue.Monitor
+speaker2, I mean no fraction under the...,Sustain.Continue.Prolong
+speaker1,Oh yeah.,React.Respond.Support
+speaker2, So then you just multiply the whole thing by the square root of two and you get the square root of two over two.,Sustain.Continue.Prolong
+speaker1, Even for the top one ?,React.Rejoinder.Support
+speaker1,Even for that one ?,React.Rejoinder.Support
+speaker2,No.,React.Respond.Confront
+speaker2, I'm talking about for this one.,React.Rejoinder.Confront
+speaker1, Oh.,React.Respond.Support
+speaker1,All you do is like go two over one.,React.Respond.Support
+speaker2, You have the square root of one.,React.Respond.Support
+speaker1, like that right ?,React.Rejoinder.Support
+speaker2,Mm.,React.Respond.Support
+speaker2,Since you have the square root of two on the bottom to make that square you have to multiply by the square root of two.,Sustain.Continue.Prolong
+speaker2,And then you get two,Sustain.Continue.Prolong
+speaker2,and you multiply the top by the square root of two,Sustain.Continue.Prolong
+speaker2, and you get square root of two.,Sustain.Continue.Prolong
+speaker2,What,React.Rejoinder.Support
+speaker1,I wanna rewind it and hear that back again.,React.Rejoinder.Support
+speaker1, Cause I sure didn't catch it the first time .,Sustain.Continue.Prolong
+speaker1,You got the two and you take the square root of two.,Sustain.Continue.Prolong
+speaker1, and you get the negative two.,Sustain.Continue.Prolong
+speaker1,which you take the square.,Sustain.Continue.Prolong
+speaker1,and it comes to two.,Sustain.Continue.Prolong
+speaker2, I'm sorry,React.Respond.Support
+speaker1, So. let's talk about this slowly,React.Respond.Support
+speaker1, as I write this down as you're saying it.,Sustain.Continue.Prolong
+speaker1,Alright ?,Sustain.Continue.Monitor
+speaker1,This is what we came out with.,Sustain.Continue.Prolong
+speaker1,Right ?,React.Rejoinder.Support
+speaker2, It's.,React.Respond.Support
+speaker2,But put it as the square root of one over the square root of two.,Sustain.Continue.Prolong
+speaker1, Oh.,React.Respond.Support
+speaker1,And then you multiply that by the square root of two over the square root of two.,React.Respond.Support
+speaker2,Right.,React.Respond.Support
+speaker1,Uhis that what all those square root of twos are haha?,React.Rejoinder.Confront
+speaker2, That's what I was.,React.Rejoinder.Support
+speaker2,That's what I was trying to say.,React.Rejoinder.Support
+speaker1, Okay,React.Respond.Support
+speaker1, I was wondering where all that square root two,React.Respond.Support
+speaker1, square root two.,React.Respond.Support
+speaker2,That's what it was.,React.Respond.Support
+speaker1,Then right here you'd get square root of two over two.,React.Respond.Support
+speaker2,Mhm.,React.Respond.Support
+speaker1, See everything was square root two,React.Rejoinder.Confront
+speaker1,over two,Sustain.Continue.Append
+speaker1, and two.,Sustain.Continue.Append
+speaker2, Right,React.Respond.Support
+speaker2, but then what about this one.,React.Rejoinder.Confront
+speaker1,on this one.,Sustain.Continue.Append
+speaker1,Let me do this one.,React.Rejoinder.Confront
+speaker2,But you have.,React.Rejoinder.Confront
+speaker2,you have i square root of three over square root of three.,React.Rejoinder.Confront
+speaker2, I mean. square root of two over.,Sustain.Continue.Prolong
+speaker2,square root of three,Sustain.Continue.Append
+speaker2, I can't even say it right.,Sustain.Continue.Prolong
+speaker1, Over,React.Rejoinder.Confront
+speaker1, do I have another down here or just the one i.,React.Rejoinder.Support
+speaker2, Um no. Just one.,React.Respond.Confront
+speaker1,Okay,React.Respond.Support
+speaker1,three and square root of three over square root of three and you get,React.Rejoinder.Confront
+speaker2, square root of six.,React.Rejoinder.Support
+speaker1, Yeah.,React.Respond.Support
+speaker1,Over three.,Sustain.Continue.Append
+speaker2, Is that right ?,React.Rejoinder.Support
+speaker1, I doubt it. I really do.,React.Respond.Confront
+speaker1,I'm not kidding.,Sustain.Continue.Prolong
+speaker2, You can't.,React.Rejoinder.Confront
+speaker2, You can't multiply square roots like that,React.Rejoinder.Confront
+speaker2, can you ?,React.Rejoinder.Support
+speaker2, Square root of two times square root of three is square root of six is it ?,React.Rejoinder.Support
+speaker1, Yeah.,React.Respond.Support
+speaker2,Okay.,React.Respond.Support
+speaker2,Well then that's fine.,React.Respond.Support
+speaker2,Then that is right.,Sustain.Continue.Prolong
+speaker1, Isn't that.,React.Rejoinder.Support
+speaker1,You can do that.,React.Respond.Support
+speaker2,Yeah.,React.Respond.Support
+speaker1,Cause that's the same way you're multiplying there square root of nine,React.Respond.Support
+speaker1, and square root of nine equals three.,Sustain.Continue.Prolong
+speaker2, Yeah okay.,React.Respond.Support
+speaker2, Where's the test.,Open.Initiate.Demand
+speaker1,There ain't no telling.,React.Respond.Support
+speaker2,You have it.,React.Respond.Support
+speaker2, I mean I have it.,Sustain.Continue.Prolong
+speaker2, Okay.,React.Respond.Support
+speaker2,The next one is,Sustain.Continue.Prolong
+speaker2, five ex times ex minus one,Sustain.Continue.Append
+speaker1, Is that it ?,React.Rejoinder.Support
+speaker1, um.,React.Respond.Support
+speaker2, equals two times one minus ex.,React.Rejoinder.Support
+speaker1,Leah.,React.Respond.Support
+speaker1,Two times one minus ex ?,React.Rejoinder.Support
+speaker2,Yeah.,React.Respond.Support
+speaker2,And that's easy,React.Respond.Support
+speaker2,you can do that.,Sustain.Continue.Prolong
+speaker1,Oh this is easy.,React.Respond.Support
+speaker1, Ex squared.,Sustain.Continue.Append
+speaker1, Please say this will factor ?,React.Rejoinder.Support
+speaker1,Will it ?,React.Rejoinder.Support
+speaker2,Na you do it.,React.Respond.Confront
+speaker1,Well,React.Respond.Support
+speaker1, I mean that's just wasting time.,React.Respond.Support
+speaker1, Cause if it's not.,Sustain.Continue.Prolong
+speaker2,Yeah.,React.Respond.Support
+speaker1,It does ?,React.Rejoinder.Support
+speaker2,Mhm.,React.Respond.Support
+speaker1,One and negative twofifths ?,React.Rejoinder.Support
+speaker2, Mhm.,React.Respond.Support
+speaker1,And I can always put those back up into the top.,React.Respond.Support
+speaker1, and and see if they check.,Sustain.Continue.Prolong
+speaker1, Right ?,React.Rejoinder.Support
+speaker1, Let me just try the one ?,React.Rejoinder.Support
+speaker1, Five,React.Rejoinder.Support
+speaker1, I got zero equals ʔzero.,Sustain.Continue.Prolong
+speaker2, that's right.,React.Respond.Support
+speaker1, And that's one ?,React.Rejoinder.Support
+speaker2,Yeah.,React.Respond.Support
+speaker1, Zero equals zero equals one.,React.Respond.Support
+speaker2, Okay.,React.Respond.Support
+speaker1, Fingerprint file you got me down.,Open.Initiate.Give
+speaker1, Come on.,React.Respond.Support
+speaker2, Ex times.,React.Respond.Support
+speaker1,Hang on.,React.Respond.Support
+speaker1,Number eight. Ex times.,Sustain.Continue.Append
+speaker2,two minus ex.,Sustain.Continue.Append
+speaker1,Two minus ex.,React.Respond.Support
+speaker2,is less than or equal to.,Sustain.Continue.Prolong
+speaker1,I don't like these.,React.Respond.Support
+speaker2,three times ex minus four.,React.Respond.Support
+speaker1,Three times ex minus four ?,React.Rejoinder.Support
+speaker2, Right.,React.Respond.Support
+speaker1, Alright,React.Respond.Support
+speaker1, distribute first right ?,React.Rejoinder.Support
+speaker2, Mhm.,React.Respond.Support
+speaker1,Two ex minus ex squared three ex minus twelve you get,React.Respond.Support
+speaker1, do that side so you get ex,Sustain.Continue.Prolong
+speaker1, whoa.,React.Respond.Support
+speaker1, I don't want to do that.,Sustain.Continue.Prolong
+speaker1, Negative ex squared two ex minus two minus ex,Sustain.Continue.Append
+speaker1, um plus twelve,Sustain.Continue.Append
+speaker1, Now do you factor this ?,React.Rejoinder.Support
+speaker1,after you do that ?,React.Rejoinder.Support
+speaker2, Yeah.,React.Respond.Support
+speaker1, Yeah.,React.Respond.Support
+speaker1, Oh but first I gotta take out that negative one,React.Respond.Support
+speaker1, don't.,React.Rejoinder.Confront
+speaker1, I mean that negative.,Sustain.Continue.Prolong
+speaker2,Mhm.,React.Respond.Support
+speaker1,in front of that ex squared so I just I can multiply that whole side by negative one again though ?,React.Rejoinder.Support
+speaker2, Yeah.,React.Respond.Support
+speaker2, Then you flip that sign over.,React.Respond.Support
+speaker1, I have to flip that sign over if I do that ?,React.Rejoinder.Support
+speaker2,Mhm.,React.Respond.Support
+speaker1, See it's little rules like that that I'm not gonna remember.,React.Rejoinder.Confront
+speaker1,So if it's. if it's less than or equal to then and there's minus you have to flip the sign.,Sustain.Continue.Prolong
+speaker1, Okay.,Open.Attend.
+speaker1,Are you tired ?,Open.Initiate.Demand
+speaker2, Not really.,React.Respond.Support
+speaker2, I mean kind of but.,Sustain.Continue.Prolong
+speaker1,I'm gonna go home in just few minutes.,Open.Initiate.Give
+speaker2, Why.,React.Rejoinder.Support
+speaker1, Cause I can work on this at home and let you get some sleep.,React.Rejoinder.Support
+speaker1, Ouch.,Open.Attend.
+speaker1,Okay.,Open.Attend.
+speaker1,S so you say ex plus four ? is greater than or equal to zero ?,Open.Initiate.Demand
+speaker1, So you say ex is greater than or equal to negative four and ex three.,Open.Initiate.Demand
+speaker2, Or.,React.Respond.Support
+speaker1,Oh,React.Respond.Support
+speaker1, is that one of the ones where you have to do or ?,React.Rejoinder.Support
+speaker2, Yeah.,React.Respond.Support
+speaker1, And if it's less than do you still do or ?,React.Rejoinder.Support
+speaker2,No that's if it's um,React.Respond.Confront
+speaker2, in the in the in between ?,React.Rejoinder.Support
+speaker2,those two numbers you know ?,Sustain.Continue.Monitor
+speaker2, If there's like like this one don't look.,Sustain.Continue.Prolong
+speaker2,But if there's like ex in the middle.,Sustain.Continue.Prolong
+speaker2, Well no that's or.,React.Rejoinder.Confront
+speaker2, If you have like one number on one side.,Sustain.Continue.Prolong
+speaker1,Mm.,React.Respond.Support
+speaker2, and it says.,Sustain.Continue.Prolong
+speaker1, Yes.,React.Respond.Support
+speaker2, greater than or equal to ex.,Sustain.Continue.Prolong
+speaker1, like.,Sustain.Continue.Append
+speaker2, and than that one's less than or equal to...,Sustain.Continue.Append
+speaker1, like two is less than or equal to ex.,React.Respond.Support
+speaker2, is less than or equal to.,React.Respond.Support
+speaker1, which is,React.Rejoinder.Support
+speaker1, ʔuh less than or equal to ʔuh.,React.Rejoinder.Support
+speaker2, less.,React.Respond.Support
+speaker2, less than or equal to.,Sustain.Continue.Append
+speaker1,six.,React.Rejoinder.Support
+speaker2, Right.,React.Respond.Support
+speaker1, So the final.,React.Respond.Support
+speaker1, So that's the answer.,React.Respond.Support
+speaker1,Right ?,React.Rejoinder.Support
+speaker2, Mhm.,React.Respond.Support
+speaker1,Number nine.,React.Rejoinder.Confront
+speaker2, Okay.,React.Respond.Support
+speaker2, I don't know this one so.,React.Respond.Confront
+speaker1, You don't know how to do this one ?,React.Rejoinder.Support
+speaker1,So we in trouble.,Sustain.Continue.Prolong
+speaker2,Well you apparently knew how to do it.,React.Rejoinder.Confront
+speaker1, Did I get it right ?,React.Rejoinder.Support
+speaker2,Well you didn't get the whole thing right.,React.Respond.Confront
+speaker2,But Well you just missed one part of it.,Sustain.Continue.Prolong
+speaker1, So what's that problem.,React.Rejoinder.Support
+speaker2,Um absolute value.,React.Respond.Support
+speaker1, Okay.,React.Respond.Support
+speaker2,of one half minus ex over three.,Sustain.Continue.Append
+speaker1, Ex over three,React.Respond.Support
+speaker1, oops. Okay.,React.Respond.Support
+speaker2, is less,React.Respond.Support
+speaker2, I mean is greater than or equal to twothirds.,Sustain.Continue.Prolong
+speaker1,Just plain old twothirds ?,React.Rejoinder.Support
+speaker2, Mhm.,React.Respond.Support
+speaker1, How do you get rid of the absolute value things ?,React.Rejoinder.Confront
+speaker1, Don't you.,React.Rejoinder.Support
+speaker2,ʔI don't.,React.Respond.Support
+speaker2,You put is less than or equal to twothirds. Or is greater than,Sustain.Continue.Prolong
+speaker2,I mean is greater than or equal to twothirds,Sustain.Continue.Prolong
+speaker2,and then don't you have like or is less than and is less than or equal to negative two thirds ?,React.Rejoinder.Support
+speaker1, What ?,React.Rejoinder.Support
+speaker1,Can I see what I did.,React.Rejoinder.Support
+speaker2, Yeah.,React.Respond.Support
+speaker2,But when you. when you have absolute value when you take the absolute value off and you put negative twothirds on this side too.,React.Respond.Support
+speaker1, First I'll just get common denominator.,React.Respond.Support
+speaker1,So I can do that.,React.Respond.Support
+speaker2, You can't do it when it's in the absolute value.,React.Rejoinder.Confront
+speaker2,though.,React.Rejoinder.Confront
+speaker1,Well I did right there.,React.Respond.Support
+speaker1,Is that why I missed it ?,React.Rejoinder.Support
+speaker2,But see if you wanna do that then at first you bring.,React.Rejoinder.Confront
+speaker1,So I only did one part of it in other words.,React.Respond.Support
+speaker2, Mhm.,React.Respond.Support
+speaker2, Just bring. Just bring twothirds over to the other side.,React.Rejoinder.Confront
+speaker2,Negative twothirds over to the other side.,Sustain.Continue.Append
+speaker1, And make it equal to zero ?,React.Rejoinder.Support
+speaker2, No.,React.Respond.Confront
+speaker2, No keep that there,Sustain.Continue.Prolong
+speaker2,But then have.,Sustain.Continue.Prolong
+speaker1,Another one over there ?,React.Rejoinder.Support
+speaker2, Yeah,React.Respond.Support
+speaker2, have is less than or equal to negative two thirds.,Sustain.Continue.Prolong
+speaker2,And that's not absolute value anymore.,Sustain.Continue.Prolong
+speaker1, Well see we've never done it like that.,React.Rejoinder.Confront
+speaker2,Let me see.,React.Respond.Support
+speaker2,If that's how you do it.,React.Respond.Support
+speaker1,I mean I'm sure you probably can do it that way.,Sustain.Continue.Prolong
+speaker2, I don't know if that's how you do it or not.,Sustain.Continue.Prolong
+speaker2, Cause I haven't done this in probably about as long as you have.,Sustain.Continue.Prolong
+speaker2, Oops. God.,Open.Attend.
+speaker1,It's my own fault,React.Rejoinder.Confront
+speaker1, I shouldn't have waited. so long to get math over with. I should've got it over with right out right out of high school.,Sustain.Continue.Prolong
+speaker2, Oo.,Open.Attend.
+speaker2,A bug.,Open.Initiate.Give
+speaker1,Hey Leah.,Open.Attend.
+speaker1, She looks so tired.,Open.Initiate.Give
+speaker2, I know.,React.Respond.Support
+speaker1,She's eating that bug.,React.Respond.Support
+speaker1, Is that what she's doing ?,React.Rejoinder.Support
+speaker2,Yuck. I guess.,React.Respond.Support
+speaker2, Yeah,Open.Attend.
+speaker1, You can do it that way ?,React.Rejoinder.Support
+speaker2,Mhm.,React.Respond.Support
+speaker1, Let me see the pencil.,React.Rejoinder.Confront
+speaker2, But then I didn't get what she got.,React.Respond.Support
+speaker2,I guess she.,Sustain.Continue.Prolong
+speaker2,Yeah you can put it so.,Sustain.Continue.Prolong
+speaker2, square root of that.,Sustain.Continue.Append
+speaker2,Oh no it's not gonna work that way.,React.Rejoinder.Confront
+speaker2,You don't have it in the middle.,Sustain.Continue.Prolong
+speaker2, See I put it in the middle ?,Sustain.Continue.Monitor
+speaker2,Seven halves is greater than or equal.,Sustain.Continue.Prolong
+speaker2, But you can't put it in the middle,Sustain.Continue.Prolong
+speaker2,cause if it's gonna be. Yeah if it's gonna be greater than that then it's not gonna be less than that.,Sustain.Continue.Prolong
+speaker2, Well I guess it can.,Sustain.Continue.Prolong
+speaker1,God.,React.Respond.Support
+speaker1, So one way I could do it.,React.Respond.Support
+speaker2, Well.,React.Respond.Support
+speaker2,No.,React.Respond.Confront
+speaker2, Wait minute now.,React.Rejoinder.Confront
+speaker2, See look what she did.,React.Rejoinder.Confront
+speaker2, She um flipped that sign over.,Sustain.Continue.Prolong
+speaker2, But uh when ʔyou divide by negative two you have to flip all the signs over.,Sustain.Continue.Prolong
+speaker2, which you did.,Sustain.Continue.Prolong
+speaker2,Yeah cause you got that right it's right here.,Sustain.Continue.Prolong
+speaker1, Oh gosh.,React.Respond.Support
+speaker1, You know what,Sustain.Continue.Monitor
+speaker1, I'm just gonna skip this one.,Sustain.Continue.Prolong
+speaker2, No you're not,React.Respond.Confront
+speaker2, you're gonna do it.,Sustain.Continue.Prolong
+speaker2,Now.,Sustain.Continue.Append
+speaker1, So I can't start by...,React.Rejoinder.Confront
+speaker2, Unhunh.,React.Respond.Support
+speaker2, Not finding common denominator.,React.Rejoinder.Support
+speaker2,You have to bring.,Sustain.Continue.Prolong
+speaker1,Well I can do. find one side by doing that can't I ?,React.Rejoinder.Support
+speaker2, Yeah,React.Respond.Support
+speaker2,but why don't you just put the other.,Sustain.Continue.Monitor
+speaker2,once you have negative twothirds on the other side then you can find common.,Sustain.Continue.Prolong
+speaker2,buh buh buh buh common denominator for the whole thing,Sustain.Continue.Append
+speaker2,and it's gonna be the same denominator.,Sustain.Continue.Prolong
+speaker1,Well what's the common denominator of bluh bluh bluh bluh bluh bluh bluh.,React.Rejoinder.Confront
+speaker2,I didn't mean that.,React.Rejoinder.Confront
+speaker2, I meant once you bring it over there.,Sustain.Continue.Prolong
+speaker1,I know what you meant.,React.Respond.Support
+speaker1,I don't ever remember us doing anything like that though.,Sustain.Continue.Prolong
+speaker1,Well add it onto the other side.,Sustain.Continue.Prolong
+speaker1,There's like way you always can get rid of those absolute value bars.,Sustain.Continue.Prolong
+speaker1,in problems,Sustain.Continue.Prolong
+speaker1, isn't there ?,React.Rejoinder.Support
+speaker1, Hey.,Sustain.Continue.Monitor
+speaker1, Can I use some of this ?,React.Rejoinder.Support
+speaker2, Oh. Yeah.,React.Respond.Support
+speaker2,ʔuMm. See yeah. Here it's absolute values.,React.Rejoinder.Confront
+speaker2,Right here.,Sustain.Continue.Append
+speaker1,And it's doing it the way that you were doing it ?,React.Rejoinder.Support
+speaker2, I'm trying to find one like that one ,React.Rejoinder.Support
+speaker1, See that's the problem,React.Rejoinder.Confront
+speaker1, there's so many different types.,Sustain.Continue.Prolong
+speaker1,That I'm sitting here worrying about this one right here and there probably won't even be one like this on the test.,Sustain.Continue.Prolong
+speaker2, I know.,React.Respond.Support
+speaker1,There'll be different one.,React.Respond.Support
+speaker2,So what do you do.,React.Rejoinder.Confront
+speaker2,You find inequality with an absolute value in it which,Sustain.Continue.Prolong
+speaker2, there's one right there.,Sustain.Continue.Prolong
+speaker2, Mhm. See ?,Sustain.Continue.Monitor
+speaker2,I sure didn't see any in the...,Sustain.Continue.Prolong
+speaker1, examples.,React.Rejoinder.Support
+speaker2, Hmm. See ?,Sustain.Continue.Monitor
+speaker2,There's no.,Sustain.Continue.Prolong
+speaker2,There it is.,React.Rejoinder.Confront
+speaker2,See ?,Sustain.Continue.Monitor
+speaker2,Here it is.,Sustain.Continue.Prolong
+speaker2,Absolute value of that you brought ʔuh ʔuh brought negative four over to the other side.,Sustain.Continue.Prolong
+speaker1,Okay.,React.Respond.Support
+speaker2,And all that...,React.Respond.Support
+speaker1,See that just proves that she puts problems on there that we've never gone over.,React.Rejoinder.Confront
+speaker1, I know we've never done one like that.,Sustain.Continue.Prolong
+speaker1, where you do that,React.Rejoinder.Support
+speaker1, Can you. Do you wanna do that when it's less than or can you do that when it's greater than too.,React.Rejoinder.Support
+speaker2, Yeah.,React.Respond.Support
+speaker2,Either way.,React.Respond.Support
+speaker1,So if it's pointed this way you just put another one pointing this way over here.,React.Respond.Support
+speaker2, Right.,React.Respond.Support
+speaker1, Okay.,React.Respond.Support
+speaker2, Where'd you get that one.,Open.Initiate.Demand
+speaker2, That's big one.,Sustain.Continue.Prolong
+speaker1, You're not kidding.,React.Respond.Support
+speaker2, That's my thumbnail.,React.Respond.Support
+speaker1,Now I just get common denominator for the whole thing ?,Open.Initiate.Demand
+speaker2, Mhm. Well,React.Respond.Support
+speaker2, take out those absolute value things they'll screw you up.,React.Rejoinder.Support
+speaker1, ʔYeah.,React.Rejoinder.Support
+speaker1,And now this'll be six right ?,React.Rejoinder.Support
+speaker1, Is that right ?,React.Rejoinder.Support
+speaker2,Mhm.,React.Respond.Support
+speaker1,Now what do you do.,React.Rejoinder.Support
+speaker2, Subtract three. from the middle.,React.Respond.Support
+speaker1,And. To which side. To both sides. To both sides ?,React.Rejoinder.Support
+speaker1,Okay.,React.Rejoinder.Support
+speaker1, Negative.,React.Rejoinder.Support
+speaker2, two ex.,React.Rejoinder.Support
+speaker1, Alright.,React.Respond.Support
+speaker1, To one,Sustain.Continue.Append
+speaker1,then after that you have to take out the negatives.,Sustain.Continue.Prolong
+speaker2, Yeah.,React.Respond.Support
+speaker2, Divide by.,React.Respond.Support
+speaker2, Well just. Divide by negative two.,Sustain.Continue.Prolong
+speaker1,Oh you can't get that by.,React.Rejoinder.Support
+speaker1,ex by itself ?,React.Rejoinder.Support
+speaker2,Yeah.,React.Respond.Support
+speaker2,And when you divide by negative.,React.Respond.Support
+speaker2,you have to flip the signs.,React.Respond.Support
+speaker1, Yeah.,React.Respond.Support
+speaker1, Okay.,React.Respond.Support
+speaker2, And when you do that it's gonna be or.,React.Respond.Support
+speaker2, Because if you look at it,Sustain.Continue.Prolong
+speaker2, cause you know it can't be greater than sevenhalves and less than negative halve at theone half at the same time.,Sustain.Continue.Prolong
+speaker2, So it's gonna be either exis less than or equal to negative one half or.,Sustain.Continue.Prolong
+speaker1,Okay.,React.Respond.Support
+speaker1,Will you pass me some of that tea please.,Open.Initiate.Demand
+speaker1, Oh thank you.,React.Respond.Support
+speaker1,Number ten.,Open.Attend.
+speaker1, How many problems are on this test.,Open.Initiate.Demand
+speaker2, Twelve.,React.Respond.Support
+speaker1,Oh good.,React.Respond.Support
+speaker2, What did you want to do after this test.,React.Rejoinder.Confront
+speaker1, That's it I guess.,React.Rejoinder.Support
+speaker2,You gonna study some more tomorrow then right ?,React.Rejoinder.Support
+speaker1, Oh definitely.,React.Respond.Support
+speaker2, Okay.,React.Respond.Support
+speaker2, Ex plus four over three ex minus two is less than zero.,Open.Initiate.Give
+speaker1, Is less than zero.,React.Respond.Support
+speaker2, Right.,React.Respond.Support
+speaker1,Gosh.,React.Respond.Support
+speaker1, Is this the. Is this the same class I'm taking Kathy.,React.Rejoinder.Support
+speaker1,Are you sure we're doing work from the same class that I'm. that I'm. that I go to every night.,React.Rejoinder.Support
+speaker2, I don't know.,React.Respond.Confront
+speaker2, Are we ?,React.Rejoinder.Confront
+speaker2, It's got the same name but that's about it.,React.Rejoinder.Confront
+speaker2,Okay.,React.Respond.Support
+speaker1, I don't even know how you start this one,React.Respond.Support
+speaker1,do you ?,React.Rejoinder.Support
+speaker2, Yeah I think so,React.Respond.Support
+speaker2,but I'm not sure.,Sustain.Continue.Prolong
+speaker2,Cause the way I start it.,Sustain.Continue.Prolong
+speaker1,Do I. Did I have anything written on the test ?,React.Rejoinder.Confront
+speaker2,Mm.,React.Respond.Support
+speaker1, I left it blank ?,React.Rejoinder.Support
